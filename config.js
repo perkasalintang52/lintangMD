@@ -12,26 +12,26 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.owner = ['6281322577123']
+global.premium = ['628132257712']
+global.ownername = 'urfavboy-lintang'
+global.botname = 'Kamagapo Bot'
+global.packname = '© Kamagapo Bot'
+global.gc = 'https://tiktok.com/@joceylintangg'
+global.linkyt = 'https://instagram.com/joceylintangg'
+global.linkgc = 'https://tiktok.com/@joceylintangg'
 global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
+global.author = '@Kamagapo Bot'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
     success: 'Berhasil',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    admin: 'Emang Lu Admin Group Tod!',
+    botAdmin: 'Jadiin Admin Dulu Tod!',
+    owner: 'Emang Lu Ownernya Tod',
+    group: 'Digunakan Hanya Untuk Group Tod!',
+    private: 'Digunakan Hanya Untuk Private Chat Tod!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Tunggu sebentar, sedang di proses',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
